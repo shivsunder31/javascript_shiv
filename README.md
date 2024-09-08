@@ -3,7 +3,7 @@ learning javascript
 
 ``` javascript 
 
-console.log("hi)
+console.log("Hello World")
 
 
 ````
